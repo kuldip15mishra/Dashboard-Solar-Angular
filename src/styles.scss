@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+$roboto-font-path: "~materialize-css/dist/fonts/roboto/";
+@import "~materialize-css/sass/materialize";
+
+@import "src/assets/sass/style.scss";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
